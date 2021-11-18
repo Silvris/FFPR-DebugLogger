@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnhollowerRuntimeLib;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace FFPR_DebugLogger
 {

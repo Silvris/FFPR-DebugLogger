@@ -131,6 +131,7 @@
   <ItemGroup>
     <Compile Include="DebugLogController_Log.cs" />
     <Compile Include="EntryPoint.cs" />
+    <Compile Include="LogCheckPatches.cs" />
     <Compile Include="ModComponent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

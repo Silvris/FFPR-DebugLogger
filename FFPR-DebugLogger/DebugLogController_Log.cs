@@ -15,8 +15,8 @@ namespace FFPR_DebugLogger
         }
         public static bool Prefix(String text)
         {
-            //ModComponent.Log.LogInfo(text);
-            ModComponent.DiskLog.LogWriter.WriteLine(text);
+            ModComponent.Log.LogInfo(text);
+            //ModComponent.DiskLog.LogWriter.WriteLine(text);
             return false;
 
         }
